@@ -1,3 +1,6 @@
+https://dev.to/internettradie/mastering-hard-parts-of-javascript-closure-iv-2i4k
+
+
 Challenge 19
 Inspect the commented out test cases carefully if you need help to understand these instructions.
 
