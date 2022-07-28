@@ -55,7 +55,7 @@ function playRound(a, b) {
 // let endOfGameTie =  "Game over!" + tieRound + "!" + " Final Score: " + userScore + "-" + computerScore;
 // let endOfGameWinner = "Game over! You Win!"+ " Final Score: " + userScore + "-"+ computerScore;
 // let endOfGameLoser = "Game over! You Lose!"+ " Final Score: " + userScore + "-"+ computerScore;
-
+// does starting the loop at 1 help fix your problem?
 function game() {
     for (let i=1; i<amountOfRounds; i++){
         getNewUserChoice();
